@@ -163,7 +163,6 @@
                 'HOME', 
                 'ABOUT', 
                 'SERVICES', 
-                'PRICE', 
                 'RESUME', 
                 'PORTFOLIO', 
                 'TESTIMONY', 

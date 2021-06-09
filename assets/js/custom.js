@@ -181,7 +181,6 @@
                     'HOME', 
                     'ABOUT', 
                     'SERVICES', 
-                    'PRICE', 
                     'Resume', 
                     'Portfolio', 
                     'Testimony', 

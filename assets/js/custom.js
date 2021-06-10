@@ -165,8 +165,8 @@
                 'SERVICES', 
                 'RESUME', 
                 'PORTFOLIO', 
-                'TESTIMONY', 
-                'CONTACT'
+                'RECOMENDACIONES', 
+                'CONTACTAR'
             ],
             scrollingSpeed: 500,
             easing: 'swing',
@@ -178,13 +178,13 @@
                 'bulletsColor': '#fff',
                 'position': 'right',
                 'tooltips': [
-                    'HOME', 
-                    'ABOUT', 
-                    'SERVICES', 
-                    'Resume', 
+                    'Inicio', 
+                    'Sobre mi', 
+                    'Servicios', 
+                    'Curriculum', 
                     'Portfolio', 
-                    'Testimony', 
-                    'Contact'
+                    'Referencia', 
+                    'Contactar'
                 ]
             },
             normalScrollElements: null,
